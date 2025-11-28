@@ -89,3 +89,6 @@ Integration with Google Analytics API for live data updates.
 Addition of predictive modeling for conversion probability.
 
 Incorporate user segmentation and RFM analysis.
+
+<img width="1305" height="744" alt="image" src="https://github.com/user-attachments/assets/1a47abea-5198-4069-ad3e-bd3d5fa5ae19" />
+
