@@ -96,4 +96,7 @@ Incorporate user segmentation and RFM analysis.
 
 <img width="1041" height="611" alt="image" src="https://github.com/user-attachments/assets/ad429fd9-4e49-424f-9bca-50106a149318" />
 
+<img width="1041" height="597" alt="image" src="https://github.com/user-attachments/assets/3a21d688-63c2-4e3c-96c4-9b8d15b276c3" />
+
+
 
